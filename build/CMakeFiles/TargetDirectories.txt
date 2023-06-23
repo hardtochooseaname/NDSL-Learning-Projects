@@ -1,0 +1,3 @@
+/home/jchan/Learn-Linux/test-space/key-value/build/CMakeFiles/kv.dir
+/home/jchan/Learn-Linux/test-space/key-value/build/CMakeFiles/edit_cache.dir
+/home/jchan/Learn-Linux/test-space/key-value/build/CMakeFiles/rebuild_cache.dir

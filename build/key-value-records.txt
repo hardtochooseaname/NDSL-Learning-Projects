@@ -1,0 +1,5 @@
+EDG:Uzi
+LNG:Gala
+BLG:Elk
+RNG:Lp
+OMG:Able

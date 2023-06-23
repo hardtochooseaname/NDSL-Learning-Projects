@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/kv.dir/chicken-twolegs.c.o CMakeFiles/kv.dir/functions.c.o -o kv  -lreadline 
